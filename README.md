@@ -1,6 +1,6 @@
 # React + Vite
 
-[@vitejs/plugin-react-swc](/src/assets/Image/cover.jpg)
+![The San Juan Mountains are beautiful!](/src/assets/Image//cover.jpg "San Juan Mountains")
 
 Currently, two official plugins are available:
 
